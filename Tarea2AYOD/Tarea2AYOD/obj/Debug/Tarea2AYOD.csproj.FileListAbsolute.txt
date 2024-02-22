@@ -1,0 +1,13 @@
+C:\Users\soned\Videos\programas VS\Tarea2AYOD\Tarea2AYOD\bin\Debug\Tarea2AYOD.exe.config
+C:\Users\soned\Videos\programas VS\Tarea2AYOD\Tarea2AYOD\bin\Debug\Tarea2AYOD.exe
+C:\Users\soned\Videos\programas VS\Tarea2AYOD\Tarea2AYOD\bin\Debug\Tarea2AYOD.pdb
+C:\Users\soned\Videos\programas VS\Tarea2AYOD\Tarea2AYOD\obj\Debug\Tarea2AYOD.csproj.AssemblyReference.cache
+C:\Users\soned\Videos\programas VS\Tarea2AYOD\Tarea2AYOD\obj\Debug\Tarea2AYOD.csproj.SuggestedBindingRedirects.cache
+C:\Users\soned\Videos\programas VS\Tarea2AYOD\Tarea2AYOD\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\soned\Videos\programas VS\Tarea2AYOD\Tarea2AYOD\obj\Debug\Tarea2AYOD.csproj.ResolveComReference.cache
+C:\Users\soned\Videos\programas VS\Tarea2AYOD\Tarea2AYOD\obj\Debug\Tarea2AYOD.btnLeerAccesoDirecto.resources
+C:\Users\soned\Videos\programas VS\Tarea2AYOD\Tarea2AYOD\obj\Debug\Tarea2AYOD.Properties.Resources.resources
+C:\Users\soned\Videos\programas VS\Tarea2AYOD\Tarea2AYOD\obj\Debug\Tarea2AYOD.csproj.GenerateResource.cache
+C:\Users\soned\Videos\programas VS\Tarea2AYOD\Tarea2AYOD\obj\Debug\Tarea2AYOD.csproj.CoreCompileInputs.cache
+C:\Users\soned\Videos\programas VS\Tarea2AYOD\Tarea2AYOD\obj\Debug\Tarea2AYOD.exe
+C:\Users\soned\Videos\programas VS\Tarea2AYOD\Tarea2AYOD\obj\Debug\Tarea2AYOD.pdb
